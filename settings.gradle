@@ -1,0 +1,3 @@
+rootProject.name='StreamPack'
+include ':app'
+include ':sdk'
